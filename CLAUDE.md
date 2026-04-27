@@ -42,3 +42,5 @@ Configured in `.claude/settings.local.json` to allow fetching from:
 - `vc.ru` — Russian tech/business media
 - `banki.ru` — Russian banking product database
 - `finance.ozon.ru` — Ozon financial products
+
+Use subagents with Haiku 4.6 for any exploration or research. If a task needs 3+ files or multi-file analysis, spawn a subagent and return only summarized insights. For thinking or coding use Sonnet
